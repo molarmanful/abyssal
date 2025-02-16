@@ -1,3 +1,8 @@
+[metadata]
+name = "abyssal"
+author = "molarmanful"
+origin_url = "https://github.com/molarmanful/abyssal"
+
 [colors]
 ansi = [
   "#141f1f",
